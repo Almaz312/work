@@ -1,0 +1,16 @@
+.input {
+    padding: 10px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.btn {
+    padding: 10px;
+    background: green;
+    border-radius: 10px;
+    border: 1px solid green;
+    cursor: pointer;
+}
+.block-elem {
+    margin-top: 40px;
+}
